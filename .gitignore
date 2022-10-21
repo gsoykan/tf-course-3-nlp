@@ -1,0 +1,11 @@
+
+.idea/
+week_3/history.pkl
+*_soln.ipynb
+week_4/lm_rnn/
+
+week_4/history.pkl
+/week_3/data/training_cleaned.csv
+/week_3/data/glove.6B.100d.txt
+/week_2/meta.tsv
+/week_2/vecs.tsv
